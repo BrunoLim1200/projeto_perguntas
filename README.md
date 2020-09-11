@@ -5,10 +5,7 @@ Um simples app de perguntas para praticar com flutter
 
 ## Telas
 
-<img src="https://i.imgur.com/pAXw6ct.png" alt="drawing" width="200"/>
-<img src="https://i.imgur.com/aGp9x0E.png" alt="drawing" width="200"/>
-<img src="https://i.imgur.com/Ul7UNPq.png" alt="drawing" width="200"/>
-<img src="https://i.imgur.com/dhiiWmJ.png" alt="drawing" width="200"/>
+<img src="https://i.imgur.com/pAXw6ct.png" alt="drawing" width="200"/> <img src="https://i.imgur.com/aGp9x0E.png" alt="drawing" width="200"/> <img src="https://i.imgur.com/Ul7UNPq.png" alt="drawing" width="200"/> <img src="https://i.imgur.com/dhiiWmJ.png" alt="drawing" width="200"/>
 
 ## Getting Started
 
